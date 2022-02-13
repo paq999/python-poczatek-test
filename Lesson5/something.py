@@ -1,4 +1,2 @@
-print('Coś tam')
+print('git')
 
-
-print('kolejny commit')
